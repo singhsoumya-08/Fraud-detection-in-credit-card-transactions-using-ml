@@ -3,16 +3,6 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 Link to the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Table of Contents
-Introduction
-Dataset
-Project Workflow
-Techniques Used
-Model Performance
-Installation
-Usage
-Conclusion
-Introduction
 Credit card fraud detection is a critical application of machine learning. The dataset used in this project is highly imbalanced, with only 492 fraud cases out of 284,807 transactions. Traditional accuracy metrics are not suitable for such imbalanced datasets, so we evaluate the model using metrics like Area Under the Precision-Recall Curve (AUPRC).
 
 Dataset
